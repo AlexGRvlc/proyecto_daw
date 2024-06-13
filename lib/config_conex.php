@@ -1,23 +1,23 @@
 <?php
 
 if (!defined('DB_HOST')) {
-    define('DB_HOST', 'localhost');
+    define('DB_HOST', 'roundhouse.proxy.rlwy.net');
 }
 
 if (!defined('DB_USER')) {
-    define('DB_USER', 'alex');
+    define('DB_USER', 'root');
 }
 
 if (!defined('DB_PASS')) {
-    define('DB_PASS', 'micontrasena');
+    define('DB_PASS', 'BEbRUYJBxwrRhjFSBvvnUannIhBQdLrS');
 }
 
 if (!defined('DB_NAME')) {
-    define('DB_NAME', 'proyecto_daw');
+    define('DB_NAME', 'roundhouse.proxy.rlwy.net');
 }
 
 if (!defined('DB_PORT')) {
-    define('DB_PORT', '8000');
+    define('DB_PORT', '12612');
 }
 
 if (!defined('DB_CHARSET')) {
