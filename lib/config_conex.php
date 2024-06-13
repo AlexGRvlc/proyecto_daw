@@ -13,7 +13,7 @@ if (!defined('DB_PASS')) {
 }
 
 if (!defined('DB_NAME')) {
-    define('DB_NAME', 'roundhouse.proxy.rlwy.net');
+    define('DB_NAME', 'railway');
 }
 
 if (!defined('DB_PORT')) {
